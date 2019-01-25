@@ -1,0 +1,3 @@
+---------------------------------------------------------------
+[2019-01-21T01:01:00+08:00] 127.0.0.1 GET learn.com/
+[ error ] [0]语法解析错误: syntax error, unexpected '$test' (T_VARIABLE), expecting ',' or ';'
