@@ -6,7 +6,7 @@
  * Time: 19:45
  */
 
-namespace LinCmsTp5\exception;
+namespace DengTp5\exception;
 
 use think\exception\Handle;
 use think\facade\Log;

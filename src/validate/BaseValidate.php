@@ -6,9 +6,9 @@
  * Time: 21:22
  */
 
-namespace LinCmsTp5\validate;
+namespace DengTp5\validate;
 
-use LinCmsTp5\exception\ParameterException;
+use DengTp5\exception\ParameterException;
 use think\facade\Request;
 use think\Validate;
 

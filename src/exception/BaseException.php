@@ -6,7 +6,7 @@
  * Time: 19:50
  */
 
-namespace LinCmsTp5\exception;
+namespace DengTp5\exception;
 
 
 use think\Exception;
