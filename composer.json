@@ -1,6 +1,6 @@
 {
     "name": "deng-tp5/base-core",
-    "description": "deng-tp5",
+    "description": "deng-tp5-基类",
     "type": "library",
     "license": "MIT",
     "authors": [
