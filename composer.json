@@ -1,6 +1,6 @@
 {
     "name": "deng-tp5/base-core",
-    "description": "deng-tp5-基类",
+    "description": "deng-tp5-基类07-17",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-          "deng-tp5\\": "src"
+          "DengTp5\\": "src"
         }
     },
     "minimum-stability": "stable",
