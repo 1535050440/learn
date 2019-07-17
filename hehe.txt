@@ -1,3 +1,0 @@
-icon
-
-<link rel="icon" type="image/png" href="/staticassets/3.22.0/dist/common/images/favicon.png" sizes="32x32">

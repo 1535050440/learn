@@ -1,0 +1,14 @@
+{
+    "name": "deng-tp5/base-core",
+    "description": "deng-tp5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qq1415551519",
+            "email": "1415551519@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
