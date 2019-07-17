@@ -9,6 +9,11 @@
             "email": "1415551519@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+          "deng-tp5\\": "src"
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
